@@ -1,6 +1,6 @@
 {
 	"name": "kap-do-not-disturb",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Silence notifications while recording",
 	"license": "MIT",
 	"repository": "karaggeorge/kap-do-not-disturb",
