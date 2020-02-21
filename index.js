@@ -16,7 +16,7 @@ const didStopRecording = async ({state}) => {
 };
 
 const doNotDisturb = {
-	title: 'Silence notifications',
+	title: 'Silence Notifications',
 	willStartRecording,
 	didStopRecording
 };
